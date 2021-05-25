@@ -25,6 +25,10 @@ nav {
 	text-decoration:none;
 }
 
+.bgg  {
+    width:100vw
+}
+
 nav .logo {
     flex-basis: 10%;
     height: 30px;
